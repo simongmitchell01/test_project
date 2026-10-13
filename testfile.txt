@@ -1,1 +1,2 @@
-My main branch text
+My main branch text after clearing conflicts
+
