@@ -1,4 +1,4 @@
-# p4score
+# test
 
 This is my implementation of a tutorial for making a Python project
 and uploading it to GitHub, which can be found at: https://medium.com/@thomas.vidori/eebc78b2a12d.
