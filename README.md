@@ -2,6 +2,7 @@
 
 This is my implementation of a tutorial for making a Python project
 and uploading it to GitHub, which can be found at: https://medium.com/@thomas.vidori/eebc78b2a12d.
+Also see the git tutorial from w3schools at https://www.w3schools.com/git/git_pull_from_remote.asp?remote=github.
 
 
 ### Purpose
