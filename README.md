@@ -11,8 +11,8 @@ No purpose at all!
 
 ### Installation
 
-Run the command:
-`pip install git+https://github.com/TVidori/p4score.git`
+Pull the repository to your local machine at /yourdirectory, then in a python venv of your choice run
+pip install /yourdirectory
 
 
 ### Usage
