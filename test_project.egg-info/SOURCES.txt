@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+test_project/__init__.py
+test_project/myfunc.py
+test_project.egg-info/PKG-INFO
+test_project.egg-info/SOURCES.txt
+test_project.egg-info/dependency_links.txt
+test_project.egg-info/top_level.txt
